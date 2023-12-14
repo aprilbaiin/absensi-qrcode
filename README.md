@@ -1,2 +1,2 @@
 # absensi-qrcode
-Aplikasi absensi mengunakan qrcode untuk laporan prakerin di SMK TI Garuda Nusantara
+Aplikasi absensi mengunakan qrcode SMKN 3 PONTIANAK
